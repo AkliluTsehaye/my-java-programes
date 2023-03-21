@@ -26,6 +26,6 @@ static int Result(int[]A) {
 
 
 
-
+jhkhjkhkjhkjk
 
 }
